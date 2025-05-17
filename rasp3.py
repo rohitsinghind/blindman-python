@@ -8,7 +8,7 @@ from io import BytesIO
 
 # --- Configurations ---
 API_URL = "https://api-inference.huggingface.co/models/Salesforce/blip-image-captioning-large"
-API_TOKEN = "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"
+API_TOKEN = "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"
 HEADERS = {"Authorization": f"Bearer {API_TOKEN}"}
 
 LED_PIN = 17
